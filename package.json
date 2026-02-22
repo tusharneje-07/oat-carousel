@@ -1,0 +1,22 @@
+{
+  "name": "oat-carousel",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Carousel WebComponent extracted from Oat UI",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharneje-07/oat-carousel.git"
+  },
+  "keywords": ["oat", "carousel", "webcomponent", "ui"],
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "main": "dist/oat-carousel.min.js",
+  "style": "dist/oat-carousel.min.css",
+  "scripts": {
+    "build": "make dist"
+  }
+}
